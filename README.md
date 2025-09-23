@@ -37,3 +37,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+
+[<img src="windows_console.png">](https://docs.microsoft.com/en-us/windows/console/setconsolemode)
+<div align="left">
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />](https://www.linkedin.com/in/amirsinaalbekord/)
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />](https://discordapp.com/users/822900322644525097)
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />](https://www.youtube.com/@amirsinaalbekord)
+</div>
+
+###
