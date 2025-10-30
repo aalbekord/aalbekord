@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Status: I'm currently learning full-stack development and working on Dungeon Dilemma, a multiplayer LAN game<br>Goals: Master full stack development, expand upon my game development skill set<br>Hobbies: I love to lift weights, read, and draw!</p>
+<p align="left">Status: I'm currently learning full-stack development and working on Dungeon Dilemma, a multiplayer LAN game<br>Goals: Master full stack development, expand upon my game development skill set<br>Hobbies: I love to lift weights, read, and draw</p>
 
 ###
 
