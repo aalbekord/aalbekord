@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Amirsina Albekord and I'm a CS student at University of California, Irvine<br><br>I am eager to work in teams, learn from others, and expand upon my current skill set</p>
+<p align="left">My name is Amir Aunyasopon and I'm a CS student at University of California, Irvine<br><br>I am eager to work in teams, learn from others, and expand upon my current skill set</p>
 
 ###
 
