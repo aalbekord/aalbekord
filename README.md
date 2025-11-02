@@ -1,43 +1,32 @@
-<h1 align="left">Welcome to my profile!</h1>
+## Hello, I'm Amir!
 
-###
+<p align="left">
+  <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt="React">
+  <img src=https://img.shields.io/badge/JavaScript-f1dc4e?style=for-the-badge&logo=javascript&logoColor=black alt="JavaScript">
+  <img src=https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white alt="Next.js">
+  <img src=https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white alt="Node.js">
+  <img src=https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white alt="Express">
+  <img src=https://img.shields.io/badge/SQL-6364d9?style=for-the-badge&logo=sql&logoColor=white alt="SQL">
+  <img src=https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white alt="Supabase">
+  <img src=https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white alt="HTML">
+  <img src=https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=white alt="CSS">
+  <img src=https://img.shields.io/badge/Python-4076A5?style=for-the-badge&logo=python&logoColor=white alt="Python">
 
-<p align="left">My name is Amir Aunyasopon and I'm a CS student at University of California, Irvine<br><br>I am eager to work in teams, learn from others, and expand upon my current skill set</p>
+</p>
 
-###
+I'm learning full stack development, , and lifting weights. Studying Computer Science at the University of California, Irvine.
 
-<h2 align="left">About me</h2>
+Currently on the programming team for Dungeon Dilemma, a multiplayer LAN game.
 
-###
+##
 
-<p align="left">Status: I'm currently learning full-stack development and working on Dungeon Dilemma, a multiplayer LAN game<br>Goals: Master full stack development, expand upon my game development skill set<br>Hobbies: I love to lift weights, read, and draw</p>
+[hackathons](https://devpost.com/amiraunyasopon) | [linkedin](https://www.linkedin.com/in/amiraunyasopon/)
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+<!--
+<p align="right">
+  <sub> Click me! ➡️ </sub>
+  <a href="https://k3v.in">
+    <img width="100" alt="Emoji Kitchen Meat + Hearts" src="https://github.com/KevinWu098/KevinWu098/assets/100006999/dc1657c3-11cc-4148-bcb0-d671f5b296d4">
+  </a>
+</p>
+-->
