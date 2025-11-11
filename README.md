@@ -1,5 +1,4 @@
-## Hello, I'm Amir!
-
+# 👋 Hey! I'm Amir
 <p align="left">
   <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt="React">
   <img src=https://img.shields.io/badge/JavaScript-f1dc4e?style=for-the-badge&logo=javascript&logoColor=black alt="JavaScript">
@@ -13,7 +12,6 @@
   <img src=https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=white alt="CSS">
   <img src=https://img.shields.io/badge/Python-4076A5?style=for-the-badge&logo=python&logoColor=white alt="Python">
   <img src=https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=cshrp&logoColor=white alt="CSharp">
-
 </p>
 
 I'm learning full stack development, reading manhwas, and lifting weights. Studying Computer Science at the University of California, Irvine.
@@ -23,12 +21,3 @@ Currently on the programming team for Dungeon Dilemma, a multiplayer LAN game.
 ##
 
 [hackathons](https://devpost.com/amiraunyasopon) | [linkedin](https://www.linkedin.com/in/amiraunyasopon/)
-
-<!--
-<p align="right">
-  <sub> Click me! ➡️ </sub>
-  <a href="https://k3v.in">
-    <img width="100" alt="Emoji Kitchen Meat + Hearts" src="https://github.com/KevinWu098/KevinWu098/assets/100006999/dc1657c3-11cc-4148-bcb0-d671f5b296d4">
-  </a>
-</p>
--->
