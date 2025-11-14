@@ -8,8 +8,6 @@
   <img src=https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white alt="Express">
   <img src=https://img.shields.io/badge/SQL-6364d9?style=for-the-badge&logo=sql&logoColor=white alt="SQL">
   <img src=https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white alt="Supabase">
-  <img src=https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white alt="HTML">
-  <img src=https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=white alt="CSS">
   <img src=https://img.shields.io/badge/Python-4076A5?style=for-the-badge&logo=python&logoColor=white alt="Python">
   <img src=https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=cshrp&logoColor=white alt="CSharp">
 </p>
